@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSignalR238", "WebApiSignalR238\WebApiSignalR238.csproj", "{ABD1A7CE-CCC2-4B85-934D-2A710C49BEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD1A7CE-CCC2-4B85-934D-2A710C49BEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD1A7CE-CCC2-4B85-934D-2A710C49BEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD1A7CE-CCC2-4B85-934D-2A710C49BEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD1A7CE-CCC2-4B85-934D-2A710C49BEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAAD2D0A-6B28-4D97-8EDD-B22C72A974C4}
+	EndGlobalSection
+EndGlobal
